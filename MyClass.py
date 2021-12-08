@@ -12,7 +12,6 @@ class SomeOtherClass:
 
 def Somefunc(var):
     print('some func is being implemented!')
-    var+=3
+    var+=4
     return var
 
-blablabla
